@@ -68,5 +68,903 @@
       "updated_at": "2070-09-23T05:20:11Z",
       "role": "manger"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Gordan",
+      "last_name": "Dunnan",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Male",
+      "nationality": "Rwanda",
+      "province": "Byumba",
+      "district": "Butare",
+      "sector": "Zhongmen",
+      "status": "pending",
+      "created-by": "gdunnan0",
+      "created_at": "2038-04-08T21:43:12Z",
+      "updated_at": "2020-06-06T11:10:34Z",
+      "role": "user",
+      "marital_status": "single",
+      "national_id_number": "01H9D9VN160SX9AZ18W8YZ6R6M",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Information Systems Manager",
+      "job_sector": "Information Systems Manager",
+      "started_at": "2048-03-12T16:36:54Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2069-10-18T02:30:36Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Laurens",
+      "last_name": "Roderighi",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Male",
+      "nationality": "Rwanda",
+      "province": "Butare",
+      "district": "Nzega",
+      "sector": "Blumbang",
+      "status": "paused",
+      "created-by": "lroderighi1",
+      "created_at": "2022-11-28T04:53:22Z",
+      "updated_at": "2030-06-12T01:13:12Z",
+      "role": "user",
+      "marital_status": "widowed",
+      "national_id_number": "01H9D9VN1C6S5J508BMG6YVW81",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Help Desk Technician",
+      "job_sector": "Statistician IV",
+      "started_at": "2019-12-05T15:06:12Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2041-09-10T23:02:59Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Zachary",
+      "last_name": "Quest",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Male",
+      "nationality": "Rwanda",
+      "province": "Gikongoro",
+      "district": "Byumba",
+      "sector": "Orléans",
+      "status": "paused",
+      "created-by": "zquest2",
+      "created_at": "2044-03-07T04:04:50Z",
+      "updated_at": "2008-06-14T01:57:50Z",
+      "role": "user",
+      "marital_status": "single",
+      "national_id_number": "01H9D9VN1G0NDY53C4RG3C36A4",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Web Developer I",
+      "job_sector": "Biostatistician III",
+      "started_at": "2005-10-24T06:41:28Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2051-07-01T21:32:03Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Jolyn",
+      "last_name": "Woodham",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Female",
+      "nationality": "Rwanda",
+      "province": "Musanze",
+      "district": "Byumba",
+      "sector": "Futu",
+      "status": "blocked",
+      "created-by": "jwoodham3",
+      "created_at": "2028-11-05T09:00:57Z",
+      "updated_at": "2085-04-17T00:23:42Z",
+      "role": "user",
+      "marital_status": "married",
+      "national_id_number": "01H9D9VN1MNNEEJC57GZ7MEKEK",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Assistant Manager",
+      "job_sector": "Electrical Engineer",
+      "started_at": "2040-05-30T01:38:58Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2086-01-25T16:49:42Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Bess",
+      "last_name": "Georgeou",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Female",
+      "nationality": "Rwanda",
+      "province": "Kigali",
+      "district": "Gikongoro",
+      "sector": "Bamenda",
+      "status": "paused",
+      "created-by": "bgeorgeou4",
+      "created_at": "2047-10-02T04:16:03Z",
+      "updated_at": "2073-07-12T11:32:35Z",
+      "role": "user",
+      "marital_status": "single",
+      "national_id_number": "01H9D9VN1RMVM9DFQV0ZSFH0NM",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Computer Systems Analyst III",
+      "job_sector": "Software Consultant",
+      "started_at": "2003-10-20T17:25:10Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2032-10-16T01:32:51Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "first_name": "Sunshine",
+      "last_name": "Divine",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Female",
+      "nationality": "Rwanda",
+      "province": "Nzega",
+      "district": "Nzega",
+      "sector": "Cotaparaco",
+      "status": "active",
+      "created-by": "sdivine5",
+      "created_at": "2024-06-27T06:08:56Z",
+      "updated_at": "2088-01-24T20:01:50Z",
+      "role": "user",
+      "marital_status": "married",
+      "national_id_number": "01H9D9VN1XA00HEGWZJZPHQ3WG",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Pharmacist",
+      "job_sector": "Programmer III",
+      "started_at": "2013-10-15T21:22:33Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2025-09-20T05:33:55Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "first_name": "Alysia",
+      "last_name": "Ericssen",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Female",
+      "nationality": "Rwanda",
+      "province": "Butare",
+      "district": "Butare",
+      "sector": "Buenaventura",
+      "status": "pending",
+      "created-by": "aericssen6",
+      "created_at": "2024-10-21T21:21:22Z",
+      "updated_at": "2053-03-11T09:23:50Z",
+      "role": "user",
+      "marital_status": "single",
+      "national_id_number": "01H9D9VN21R1A344Z9EHAMRVX9",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Quality Control Specialist",
+      "job_sector": "Professor",
+      "started_at": "2087-01-27T18:18:42Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2041-08-11T13:05:50Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "first_name": "Isidor",
+      "last_name": "Lilion",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Male",
+      "nationality": "Rwanda",
+      "province": "Byumba",
+      "district": "Byumba",
+      "sector": "Huanghuai",
+      "status": "blocked",
+      "created-by": "ililion7",
+      "created_at": "2026-12-31T02:13:04Z",
+      "updated_at": "2076-07-03T10:41:30Z",
+      "role": "user",
+      "marital_status": "single",
+      "national_id_number": "01H9D9VN24HH1767W02MT3MWVQ",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Food Chemist",
+      "job_sector": "Mechanical Systems Engineer",
+      "started_at": "2020-12-18T04:31:04Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2060-10-13T17:28:07Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "first_name": "Cherye",
+      "last_name": "Oller",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Female",
+      "nationality": "Rwanda",
+      "province": "Gikongoro",
+      "district": "Nzega",
+      "sector": "Kalmar",
+      "status": "creating",
+      "created-by": "coller8",
+      "created_at": "2046-08-19T15:47:27Z",
+      "updated_at": "2048-06-01T07:10:22Z",
+      "role": "user",
+      "marital_status": "single",
+      "national_id_number": "01H9D9VN27AR8AY27X17E8136S",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Cost Accountant",
+      "job_sector": "Design Engineer",
+      "started_at": "2034-07-12T21:28:47Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2035-07-28T12:24:12Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "first_name": "Raimund",
+      "last_name": "Shillan",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Male",
+      "nationality": "Rwanda",
+      "province": "Byumba",
+      "district": "Kigali",
+      "sector": "Greensboro",
+      "status": "active",
+      "created-by": "rshillan9",
+      "created_at": "2039-04-15T10:30:25Z",
+      "updated_at": "2002-03-23T00:16:47Z",
+      "role": "user",
+      "marital_status": "widowed",
+      "national_id_number": "01H9D9VN2AWMNAMJE925XKMVHV",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Analyst Programmer",
+      "job_sector": "Internal Auditor",
+      "started_at": "2045-03-04T15:49:29Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2042-09-15T13:55:39Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "first_name": "Luce",
+      "last_name": "Mundow",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Male",
+      "nationality": "Rwanda",
+      "province": "Nyanza",
+      "district": "Nyanza",
+      "sector": "Honghuatao",
+      "status": "pending",
+      "created-by": "lmundowa",
+      "created_at": "2035-07-30T18:24:21Z",
+      "updated_at": "2046-06-15T09:52:48Z",
+      "role": "user",
+      "marital_status": "divorced",
+      "national_id_number": "01H9D9VN2ER2RJ2CBD22SWY366",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Senior Quality Engineer",
+      "job_sector": "Quality Engineer",
+      "started_at": "2089-09-18T11:54:04Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2007-01-11T14:52:53Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "first_name": "Scarlett",
+      "last_name": "O'Doherty",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Female",
+      "nationality": "Rwanda",
+      "province": "Byumba",
+      "district": "Nyanza",
+      "sector": "Wakiso",
+      "status": "pending",
+      "created-by": "sodohertyb",
+      "created_at": "2032-08-12T05:34:45Z",
+      "updated_at": "2085-07-10T14:29:06Z",
+      "role": "user",
+      "marital_status": "married",
+      "national_id_number": "01H9D9VN2JXSHZ49859KMSPPYS",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Help Desk Technician",
+      "job_sector": "Clinical Specialist",
+      "started_at": "2020-03-22T07:39:06Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2070-07-04T14:29:19Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "first_name": "Philly",
+      "last_name": "Eyam",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Female",
+      "nationality": "Rwanda",
+      "province": "Nzega",
+      "district": "Gikongoro",
+      "sector": "Montréal-Ouest",
+      "status": "blocked",
+      "created-by": "peyamc",
+      "created_at": "2026-07-01T15:22:58Z",
+      "updated_at": "2090-07-13T12:21:44Z",
+      "role": "user",
+      "marital_status": "married",
+      "national_id_number": "01H9D9VN2PYAVCXREBMNGAK9JT",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Civil Engineer",
+      "job_sector": "Senior Sales Associate",
+      "started_at": "2017-05-28T21:54:10Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2065-07-03T08:56:32Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "first_name": "George",
+      "last_name": "Driussi",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Male",
+      "nationality": "Rwanda",
+      "province": "Nzega",
+      "district": "Byumba",
+      "sector": "Izra‘",
+      "status": "creating",
+      "created-by": "gdriussid",
+      "created_at": "2045-05-29T12:28:01Z",
+      "updated_at": "2044-06-27T15:14:58Z",
+      "role": "user",
+      "marital_status": "widowed",
+      "national_id_number": "01H9D9VN2T256CAKDGP2EANME0",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Programmer Analyst II",
+      "job_sector": "Geologist III",
+      "started_at": "2068-02-19T09:09:25Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2011-12-21T17:20:00Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    }
   ]
 }
