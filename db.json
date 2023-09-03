@@ -68,5 +68,71 @@
       "updated_at": "2070-09-23T05:20:11Z",
       "role": "manger"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Gordan",
+      "last_name": "Dunnan",
+      "phone_number": 250725012345,
+      "password": 12345678,
+      "gender": "Male",
+      "nationality": "Rwanda",
+      "province": "Byumba",
+      "district": "Butare",
+      "sector": "Zhongmen",
+      "status": "pending",
+      "created-by": "gdunnan0",
+      "created_at": "2038-04-08T21:43:12Z",
+      "updated_at": "2020-06-06T11:10:34Z",
+      "role": "user",
+      "marital_status": "single",
+      "national_id_number": "01H9D9VN160SX9AZ18W8YZ6R6M",
+      "national_id_copy": "https://www.newtimes.co.rw/uploads/imported_images/files/main/articles/2019/06/11/ndesire.jpg",
+      "job_title": "Information Systems Manager",
+      "job_sector": "Information Systems Manager",
+      "started_at": "2048-03-12T16:36:54Z",
+      "working_days": 5,
+      "company_location ": "Rwanda",
+      "pay_date": "2069-10-18T02:30:36Z",
+      "income": [
+        {
+          "id": 1,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        },
+        {
+          "id": 2,
+          "job_income": 4000000,
+          "frequency": "mothly",
+          "name": "coder",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 4000000
+        }
+      ],
+      "expenses": [
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        },
+        {
+          "id": 1,
+          "frequency": "mothly",
+          "name": "Workflower",
+          "created_at": "2038-04-08T21:43:12Z",
+          "updated_at": "2020-06-06T11:10:34Z",
+          "mount_per_month": 500
+        }
+      ]
+    }
   ]
 }
